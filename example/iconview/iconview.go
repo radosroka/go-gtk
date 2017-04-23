@@ -4,9 +4,9 @@ import (
 	"os"
 	"unsafe"
 
-	"github.com/mattn/go-gtk/gdkpixbuf"
-	"github.com/mattn/go-gtk/glib"
-	"github.com/mattn/go-gtk/gtk"
+	"github.com/radosroka/go-gtk/gdkpixbuf"
+	"github.com/radosroka/go-gtk/glib"
+	"github.com/radosroka/go-gtk/gtk"
 )
 
 func main() {

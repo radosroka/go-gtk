@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/mattn/go-gtk/gdk"
-	"github.com/mattn/go-gtk/glib"
-	"github.com/mattn/go-gtk/gtk"
+	"github.com/radosroka/go-gtk/gdk"
+	"github.com/radosroka/go-gtk/glib"
+	"github.com/radosroka/go-gtk/gtk"
 )
 
 func main() {

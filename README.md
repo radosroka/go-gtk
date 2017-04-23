@@ -6,21 +6,21 @@
 
 ## SCREENSHOT
 
-![Go GTK!](https://github.com/mattn/go-gtk/raw/gh-pages/static/images/screenshot.png "Go GTK!")
+![Go GTK!](https://github.com/radosroka/go-gtk/raw/gh-pages/static/images/screenshot.png "Go GTK!")
 
 ## INSTALL
 
   You can experiment with go-gtk
   by running the various example programs:
 
-    git clone  https://github.com/mattn/go-gtk
+    git clone  https://github.com/radosroka/go-gtk
     cd go-gtk
     make example
     ./example/demo/demo
 
   Or
 
-    go get github.com/mattn/go-gtk/gtk
+    go get github.com/radosroka/go-gtk/gtk
 
   Don't forget, that you need the GTK-Development-Packages.
 
